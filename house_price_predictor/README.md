@@ -15,15 +15,6 @@ This application uses a multivariate **Linear Regression** model coupled with ca
 
 - [Key Features](#-key-features)
 - [Project Architecture & Directory Structure](#-project-architecture--directory-structure)
-- [Real Estate Market Methodology](#-real-estate-market-methodology)
-- [Installation & Local Setup](#-installation--local-setup)
-- [How to Run the Application](#-how-to-run-the-application)
-- [Model Training & Technical Details](#-model-training--technical-details)
-- [Sample Predictions & Market Ranges](#-sample-predictions--market-ranges)
-- [Deployment Guide](#-deployment-guide)
-- [Contributing](#-contributing)
-- [License](#-license)
-
 ---
 
 ## ✨ Key Features
@@ -65,11 +56,4 @@ house_price_predictor/
 │
 ├── app.py                        # Streamlit web application frontend code
 └── requirements.txt              # Required Python dependencies with pinned versions
-
-📊 Real Estate Market Methodology
-
-The dataset generation and model logic reflect actual real estate valuation mechanics:
-$$\text{Price} = (\text{Total SqFt} \times \text{Base Locality Rate}) + (\text{BHK} \times 200,000) + (\text{Bathrooms} \times 150,000) + \epsilon$$
-
-
-Where:$\text{Base Locality Rate}$: Baseline land/construction cost per sq. ft. specific to each zone (e.g., ₹18,500/sq. ft. in Koramangala vs. ₹3,200/sq. ft. in Doddaballapur).$\text{BHK}$ & $\text{Bathrooms}$: Allowances for interior layout complexity.$\epsilon$: Normal distribution variance representing individual property variations (floor rise, facing, amenities).To ensure realistic bounds, the training generator enforces natural property sizing rules (e.g., a 2 BHK is restricted to standard 900–1,400 sq. ft. boundaries, preventing synthetic skewing).
+listic bounds, the training generator enforces natural property sizing rules (e.g., a 2 BHK is restricted to standard 900–1,400 sq. ft. boundaries, preventing synthetic skewing).
