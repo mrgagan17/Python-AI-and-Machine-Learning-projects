@@ -1,1 +1,1 @@
-# Python-AI-and-Machine-Learning-projects
+# Python AI/ML projects
