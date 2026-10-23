@@ -14,6 +14,7 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 | [`spam_detector`](./spam_detector) | Text Classification | Filters unsolicited emails using text vectorization and probability models. | Naive Bayes, Count Vectorizer |
 | [`fraud_detection`](./fraud_detection) | Anomaly Detection | Identifies fraudulent transactions by handling skewed and imbalanced datasets. | Scikit-Learn, Pandas |
 | [`face_detection`](./face_detection) | Computer Vision | Detects and draws bounding boxes around human faces using image processing. | OpenCV, Haar Cascades |
+| [`customer_churn_predictor`](./customer_churn_predictor) | Classification | Predicts whether a customer will cancel their subscription service to improve retention. | Random Forest, XGBoost |
 
 ## 🛠️ Technology Stack
 
