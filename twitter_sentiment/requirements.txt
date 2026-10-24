@@ -1,0 +1,5 @@
+streamlit
+tweepy
+textblob
+pandas
+python-dotenv
