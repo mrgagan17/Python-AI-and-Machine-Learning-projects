@@ -4,17 +4,21 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 
 ## 🚀 Completed Projects
 
-| Project Directory | Focus Area | Description | Core Technology |
+| Project Module | Engineering Domain | Core Technologies & Frameworks | Description |
 | :--- | :--- | :--- | :--- |
-| [`house_price_predictor`](./house_price_predictor) | Regression | Predicts real estate valuations based on property features and location data. | Linear Regression, Scikit-Learn |
-| [`iris_classifier`](./iris_classifier) | Classification | Categorizes iris flower species based on sepal and petal measurements. | SVM, Decision Trees |
-| [`mnist_recognizer`](./mnist_recognizer) | Computer Vision | Identifies and classifies handwritten digits (0-9) from the MNIST dataset. | Neural Networks, Deep Learning |
-| [`movie_recommender`](./movie_recommender) | Recommendation | Suggests films based on user ratings and historical viewing preferences. | Collaborative Filtering |
-| [`rule_based_chatbot`](./rule_based_chatbot) | NLP | Parses user intents and delivers automated responses using pattern matching. | NLTK, RegEx |
-| [`spam_detector`](./spam_detector) | Text Classification | Filters unsolicited emails using text vectorization and probability models. | Naive Bayes, Count Vectorizer |
-| [`fraud_detection`](./fraud_detection) | Anomaly Detection | Identifies fraudulent transactions by handling skewed and imbalanced datasets. | Scikit-Learn, Pandas |
-| [`face_detection`](./face_detection) | Computer Vision | Detects and draws bounding boxes around human faces using image processing. | OpenCV, Haar Cascades |
-| [`customer_churn_predictor`](./customer_churn_predictor) | Classification | Predicts whether a customer will cancel their subscription service to improve retention. | Random Forest, XGBoost |
+| **`churn_predictor`**[cite: 4] | **Ensemble Methods** | XGBoost, Scikit-Learn, Pipelines | Predicts customer subscription cancellation probabilities using Gradient Boosting and automated preprocessing pipelines. |
+| **`face_detection`**[cite: 4] | **Computer Vision** | OpenCV, Haar Cascades | A real-time hardware-integrated web application drawing facial bounding boxes on live camera feeds. |
+| **`fraud_detection`**[cite: 4] | **Anomaly Detection** | Random Forest, SMOTE, Imbalanced-Learn | Identifies fraudulent financial transactions by balancing highly skewed datasets with synthetic minority over-sampling. |
+| **`house_price_predictor`**[cite: 4] | **Regression Analysis** | Scikit-Learn, Pandas, NumPy | Calculates real estate valuations based on multiple continuous and categorical property features. |
+| **`iris_classifier`**[cite: 4] | **Classification** | Support Vector Machines (SVM) | A foundational botanical classification engine mapping sepal and petal dimensions to species. |
+| **`mnist_recognizer`**[cite: 4] | **Deep Learning** | Neural Networks, PyTorch | Processes 28x28 pixel matrices to identify handwritten digits via multi-layer perceptrons. |
+| **`movie_recommender`**[cite: 4] | **Recommendation Systems** | KNN, Cosine Similarity | An item-based collaborative filtering engine that mathematically identifies nearest-neighbor media clusters. |
+| **`music_genre_classifier`**[cite: 4] | **Audio Signal Processing**| Librosa, Deep Neural Networks | Extracts Mel-Frequency Cepstral Coefficients (MFCCs) from raw audio waveforms to classify musical genres. |
+| **`rule_based_chatbot`**[cite: 4] | **Natural Language Processing**| NLTK, Regex | An intent-matching conversational agent utilizing predefined linguistic logic trees. |
+| **`spam_detector`**[cite: 4] | **Text Classification** | Naive Bayes, TF-IDF | A probabilistic classifier that vectorizes email text to filter malicious communications. |
+| **`stock_predictor`**[cite: 4] | **Time-Series Forecasting**| PyTorch LSTM, yfinance, Plotly | A Recurrent Neural Network analyzing historical trailing 60-day sequence windows to forecast equity prices. |
+| **`traffic_sign_recognition`**[cite: 4] | **Deep Learning (CNN)** | Convolutional Neural Networks | Processes spatial feature maps to automatically classify road signs from the GTSRB dataset. |
+| **`twitter_sentiment`**[cite: 4] | **Live API Integration & NLP**| Tweepy, TextBlob, X API v2 | Scrapes live social media data streams to generate public sentiment polarity scores on specific keywords. |
 
 ## 🛠️ Technology Stack
 
