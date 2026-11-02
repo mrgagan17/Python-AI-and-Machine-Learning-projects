@@ -15,13 +15,14 @@ Trained on the COCO dataset, this deep learning model parses live hardware input
 *   **Dynamic Thresholding:** Includes interactive Streamlit sliders to adjust non-maximum suppression (NMS) confidence thresholds on the fly.
 *   **Automated Annotation:** Leverages the native `.plot()` method on Ultralytics result objects for mathematically precise bounding box overlays.
 
-## 📂 Repository Structure
-```text
-├── app.py                 # Streamlit UI, camera loop, and YOLO inference pipeline
-├── requirements.txt       # Project dependencies
-└── .gitignore             # Excluded directories and auto-downloaded weights
 
 ## 📸 Live Detection Demo
 *The YOLOv8 model successfully rendering an 84% confidence bounding box around a cell phone in real-time.*
 
 ![YOLOv8 Real-Time Output](output.jpg)
+
+## 📂 Repository Structure
+```text
+├── app.py                 # Streamlit UI, camera loop, and YOLO inference pipeline
+├── requirements.txt       # Project dependencies
+└── .gitignore             # Excluded directories and auto-downloaded weights
