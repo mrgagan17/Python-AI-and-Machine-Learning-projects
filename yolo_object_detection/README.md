@@ -26,3 +26,4 @@ Trained on the COCO dataset, this deep learning model parses live hardware input
 ├── app.py                 # Streamlit UI, camera loop, and YOLO inference pipeline
 ├── requirements.txt       # Project dependencies
 └── .gitignore             # Excluded directories and auto-downloaded weights
+
