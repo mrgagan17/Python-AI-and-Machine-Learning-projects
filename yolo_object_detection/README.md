@@ -19,7 +19,7 @@ Trained on the COCO dataset, this deep learning model parses live hardware input
 ## 📸 Live Detection Demo
 *The YOLOv8 model successfully rendering an 84% confidence bounding box around a cell phone in real-time.*
 
-![YOLOv8 Real-Time Output](output.jpg)
+![YOLOv8 Real-Time Output](output.png)
 
 ## 📂 Repository Structure
 ```text
