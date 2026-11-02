@@ -19,10 +19,12 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 | [**`stock_predictor`**](./stock_predictor) | **Time-Series Forecasting**| PyTorch LSTM, yfinance, Plotly | A Recurrent Neural Network analyzing historical trailing 60-day sequence windows to forecast equity prices. |
 | [**`traffic_sign_recognition`**](./traffic_sign_recognition) | **Deep Learning (CNN)** | Convolutional Neural Networks | Processes spatial feature maps to automatically classify road signs from the GTSRB dataset. |
 | [**`twitter_sentiment`**](./twitter_sentiment) | **Live API Integration & NLP**| Tweepy, TextBlob, X API v2 | Scrapes live social media data streams to generate public sentiment polarity scores on specific keywords. |
+| [**`yolo_object_detection`**](./yolo_object_detection) | **Advanced Computer Vision** | YOLO, OpenCV, PyTorch | Implements real-time object detection and multi-class bounding box tracking on live video feeds using the You Only Look Once architecture. |
+
 ## 🛠️ Technology Stack
 
 *   **Language:** Python
-*   **Libraries & Frameworks:** Scikit-Learn, TensorFlow/Keras, Pandas, NumPy, NLTK, OpenCV
+*   **Libraries & Frameworks:** Scikit-Learn, TensorFlow/Keras, Pandas, NumPy, NLTK, OpenCV, PyTorch
 *   **Development Tools:** VS Code, Antigravity IDE, Jupyter Notebook
 *   **Version Control:** Git & GitHub
 
