@@ -15,7 +15,7 @@ A deep learning Vision-Language web application that automatically generates des
 ## 📸 Output Demo
 *The deep learning model successfully generating a descriptive natural language caption for a bald eagle.*
 
-![AI Image Caption Output](output.jpg)
+![AI Image Caption Output](output.png)
 
 ## 📂 Repository Structure
 ```text
