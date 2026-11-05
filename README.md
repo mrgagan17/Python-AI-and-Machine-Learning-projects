@@ -7,7 +7,7 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 | Project Module | Engineering Domain | Core Technologies & Frameworks | Description |
 | :--- | :--- | :--- | :--- |
 | [**`churn_predictor`**](./churn_predictor) | **Ensemble Methods** | XGBoost, Scikit-Learn, Pipelines | Predicts customer subscription cancellation probabilities using Gradient Boosting and automated preprocessing pipelines. |
-| [**`deepfake_detection_system`**](./deepfake_detection) | **Video Analysis & Forensic AI** | CNN, OpenCV, Deep Learning | Trains a complex CNN to spot microscopic artifacts, unnatural blinking patterns, and blending errors to differentiate between real videos and AI-generated DeepFakes. |
+| [**`deepfake_detection_system`**](./deepfake_detection_system) | **Video Analysis & Forensic AI** | CNN, OpenCV, Deep Learning | Trains a complex CNN to spot microscopic artifacts, unnatural blinking patterns, and blending errors to differentiate between real videos and AI-generated DeepFakes. |
 | [**`face_detection`**](./face_detection) | **Computer Vision** | OpenCV, Haar Cascades | A real-time hardware-integrated web application drawing facial bounding boxes on live camera feeds. |
 | [**`fraud_detection`**](./fraud_detection) | **Anomaly Detection** | Random Forest, SMOTE, Imbalanced-Learn | Identifies fraudulent financial transactions by balancing highly skewed datasets with synthetic minority over-sampling. |
 | [**`house_price_predictor`**](./house_price_predictor) | **Regression Analysis** | Scikit-Learn, Pandas, NumPy | Calculates real estate valuations based on multiple continuous and categorical property features. |
