@@ -11,8 +11,8 @@ An advanced Vision-Language and Forensic AI web application designed to differen
 *The forensic neural network analyzing both authentic and manipulated media to determine authenticity.*
 
 <p align="center">
-  <img src="output1.jpg" width="49%" />
-  <img src="output2.jpg" width="49%" />
+  <img src="output1.png" width="49%" />
+  <img src="output2.png" width="49%" />
 </p>
 
 ## 🚀 Key Features
