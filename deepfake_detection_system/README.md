@@ -8,9 +8,12 @@
 An advanced Vision-Language and Forensic AI web application designed to differentiate between authentic media and AI-generated DeepFakes by analyzing microscopic digital artifacts.
 
 ## 📸 Output Demo
-*The forensic neural network analyzing a portrait to detect microscopic digital blending errors and determine media authenticity.*
+*The forensic neural network analyzing both authentic and manipulated media to determine authenticity.*
 
-![DeepFake Detection Output](output.jpg)
+<p align="center">
+  <img src="output1.jpg" width="49%" />
+  <img src="output2.jpg" width="49%" />
+</p>
 
 ## 🚀 Key Features
 *   **Spatio-Temporal Architecture Skills:** Includes `cnn_forensic_architecture.py`, demonstrating the implementation of a custom ResNeXt50 + LSTM neural network built from scratch in PyTorch to track unnatural blinking and temporal blending errors.
