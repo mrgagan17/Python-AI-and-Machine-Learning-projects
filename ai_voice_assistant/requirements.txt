@@ -1,0 +1,7 @@
+streamlit
+audio-recorder-streamlit
+openai-whisper
+pyttsx3
+ollama
+torch
+torchaudio
