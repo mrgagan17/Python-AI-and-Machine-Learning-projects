@@ -1,4 +1,4 @@
- # Python AI & Machine Learning Projects
+ # 20 Python AI & Machine Learning Projects
 
 Welcome to my portfolio of Artificial Intelligence and Machine Learning projects. This repository demonstrates my progression in building practical, data-driven applications, ranging from fundamental predictive models to computer vision, natural language processing, and reinforcement learning systems.
 
