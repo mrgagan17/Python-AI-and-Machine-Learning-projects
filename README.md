@@ -6,6 +6,7 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 
 | Project Module | Engineering Domain | Core Technologies & Frameworks | Description |
 | :--- | :--- | :--- | :--- |
+| [**`ai_voice_assistant`**](./ai_voice_assistant) | **LLMs & Speech Processing** | OpenAI Whisper, LLMs, TTS | Combines speech-to-text, local/API Large Language Models, and a TTS engine to build a smart conversational voice assistant. |
 | [**`autonomous_driving_sim`**](./autonomous_driving_sim) | **Reinforcement Learning** | PyTorch, DQN, Pygame, Streamlit | Trains a virtual AI agent to navigate a simulated track using Deep Q-Networks by maximizing reward functions for safe driving. |
 | [**`churn_predictor`**](./churn_predictor) | **Ensemble Methods** | XGBoost, Scikit-Learn, Pipelines | Predicts customer subscription cancellation probabilities using Gradient Boosting and automated preprocessing pipelines. |
 | [**`deepfake_detection_system`**](./deepfake_detection_system) | **Video Analysis & Forensic AI** | CNN, OpenCV, Deep Learning | Trains a complex CNN to spot microscopic artifacts, unnatural blinking patterns, and blending errors to differentiate between real videos and AI-generated DeepFakes. |
@@ -23,7 +24,6 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 | [**`stock_predictor`**](./stock_predictor) | **Time-Series Forecasting**| PyTorch LSTM, yfinance, Plotly | A Recurrent Neural Network analyzing historical trailing 60-day sequence windows to forecast equity prices. |
 | [**`traffic_sign_recognition`**](./traffic_sign_recognition) | **Deep Learning (CNN)** | Convolutional Neural Networks | Processes spatial feature maps to automatically classify road signs from the GTSRB dataset. |
 | [**`twitter_sentiment`**](./twitter_sentiment) | **Live API Integration & NLP**| Tweepy, TextBlob, X API v2 | Scrapes live social media data streams to generate public sentiment polarity scores on specific keywords. |
-| [**`ai_voice_assistant`**](./ai_voice_assistant) | **LLMs & Speech Processing** | OpenAI Whisper, LLMs, TTS | Combines speech-to-text, local/API Large Language Models, and a TTS engine to build a smart conversational voice assistant. |
 | [**`yolo_object_detection`**](./yolo_object_detection) | **Advanced Computer Vision** | YOLO, OpenCV, PyTorch | Implements real-time object detection and multi-class bounding box tracking on live video feeds using the You Only Look Once architecture. |
 
 ## 🛠️ Technology Stack
