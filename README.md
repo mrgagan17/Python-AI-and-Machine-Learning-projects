@@ -1,4 +1,4 @@
-# Python AI & Machine Learning Projects
+ # Python AI & Machine Learning Projects
 
 Welcome to my portfolio of Artificial Intelligence and Machine Learning projects. This repository demonstrates my progression in building practical, data-driven applications, ranging from fundamental predictive models to computer vision, natural language processing, and reinforcement learning systems.
 
@@ -18,6 +18,7 @@ Welcome to my portfolio of Artificial Intelligence and Machine Learning projects
 | [**`iris_classifier`**](./iris_classifier) | **Classification** | Support Vector Machines (SVM) | A foundational botanical classification engine mapping sepal and petal dimensions to species. |
 | [**`mnist_recognizer`**](./mnist_recognizer) | **Deep Learning** | Neural Networks, PyTorch | Processes 28x28 pixel matrices to identify handwritten digits via multi-layer perceptrons. |
 | [**`movie_recommender`**](./movie_recommender) | **Recommendation Systems** | KNN, Cosine Similarity | An item-based collaborative filtering engine that mathematically identifies nearest-neighbor media clusters. |
+| [**`multi_agent_rag_system`**](./multi_agent_rag_system) | **Agentic AI & Advanced NLP** | LangChain, ChromaDB, Ollama, Local LLMs | Orchestrates a privacy-first multi-agent workflow to ingest, embed, and query private enterprise documents using Retrieval-Augmented Generation without external API dependencies. |
 | [**`music_genre_classifier`**](./music_genre_classifier) | **Audio Signal Processing**| Librosa, Deep Neural Networks | Extracts Mel-Frequency Cepstral Coefficients (MFCCs) from raw audio waveforms to classify musical genres. |
 | [**`rule_based_chatbot`**](./rule_based_chatbot) | **Natural Language Processing**| NLTK, Regex | An intent-matching conversational agent utilizing predefined linguistic logic trees. |
 | [**`spam_detector`**](./spam_detector) | **Text Classification** | Naive Bayes, TF-IDF | A probabilistic classifier that vectorizes email text to filter malicious communications. |
