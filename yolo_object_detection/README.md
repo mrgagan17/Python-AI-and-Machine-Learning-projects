@@ -21,7 +21,7 @@ Trained on the COCO dataset, this deep learning model parses live hardware input
 
 ![YOLOv8 Real-Time Output](output.png)
 
-## 📂 Repository Structure
+## 📂 Repository Structure:
 ```text
 yolo_object_detection/
 ├── app.py                 # Streamlit UI, camera loop, and YOLO inference pipeline
